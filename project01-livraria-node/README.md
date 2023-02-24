@@ -1,7 +1,7 @@
 <h1 align="center"> Livraria Node </h1>
 
 <p align="center">
-Project to learn Node.js
+Project to learn Node.js. It is an API.
 </p>
 
 <br>
